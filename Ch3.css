@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 10px;
+    /* 1rem = 10px  */
+
+}
+body{
+    padding: 10rem;
+}
+
+.parent{
+    width: 200px;
+    height: 500px;
+    display: grid;
+    grid-template-rows: 15% 85%;
+}
+.battery_container{
+
+}
+.bt_top_con{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.small_top{
+    width: 30px;
+    height: 10px;
+    background-color: black;
+}
+.bottom_con{
+    height: ;
+}
+.green_col{
+    background-color: green;
+}
+
+
+
+
+
+
